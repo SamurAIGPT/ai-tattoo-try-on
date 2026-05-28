@@ -1,9 +1,9 @@
-# 🖋️ AI Tattoo Try-On — Open-Source Virtual Tattoo Simulator & Placement Try-On SaaS
+# 🖋️ AI Tattoo Try-On — Open-Source Virtual Tattoo Simulator & Placement Try-On SaaS (Free Ink Hunter / Tattoosmart Alternative)
 
-> **Try on tattoo designs virtually in seconds with advanced AI.** A production-ready, self-hostable Next.js SaaS boilerplate built for tattoo studios, artists, fashion brands, and DTC apps. A free open-source alternative to paid tattoo editor tools — powered by the MuAPI AI engine.
+> **Preview any tattoo design on your body virtually before getting inked.** A production-ready, self-hostable Next.js SaaS boilerplate built for tattoo studios, artists, fashion brands, and DTC apps. A free open-source alternative to Ink Hunter, Tattoosmart, and InkAR — powered by the MuAPI AI engine.
 
-**Tech stack:** Next.js 16 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI (nano-banana-pro-edit) · Webhook-backed async delivery
-**Use cases:** Tattoo parlor client consultations · Virtual ink placement previews · Personal body art planning · Tattoo artist portfolio marketing · Interactive try-on widgets
+**Tech stack:** Next.js 14 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI (nano-banana-pro-edit) · Webhook-backed async delivery
+**Use cases:** Tattoo parlor client consultations · Virtual ink placement previews · Personal body art planning · Tattoo artist portfolio marketing · Tattoo design communities · Body art e-commerce · Interactive try-on widgets
 
 ![AI Tattoo Try-On Interface Screenshot](https://cdn.muapi.ai/data/2/457789547787/Screenshot_2026-05-28_181903.png)
 
