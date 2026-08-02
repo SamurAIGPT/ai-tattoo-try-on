@@ -17,6 +17,11 @@
 
 https://github.com/user-attachments/assets/9b347782-e043-4111-91c3-4a7c74c76875
 
+## Related Projects
+
+- [MuAPI image playground](https://muapi.ai/playground) — Try image-editing models for virtual tattoo placement.
+- [MuAPI specialized apps docs](https://muapi.ai/docs/specialized-apps) — Image transformation workflows for creative tools.
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-tattoo-try-on](https://github.com/SamurAIGPT/ai-tattoo-try-on)
